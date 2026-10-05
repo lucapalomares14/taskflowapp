@@ -1,11 +1,8 @@
 TaskFlow es una aplicación móvil en desarrollo para la gestión y organización de tareas.
 
 Tecnologías utilizadas:
-
 . React Native
-
 . Expo
-
 . JavaScript
 
 Estructura del proyecto:
@@ -23,18 +20,13 @@ taskflow-app/
 └── README.md
 
 Instalación
-
 . Clonar el repositorio.
-
 . Instalar las dependencias:
-
 . npm install
 
 Iniciar el proyecto:
-
-npx expo start
-
-Escanear el código QR con Expo Go para abrir la aplicación.
+. npx expo start
+. Escanear el código QR con Expo Go para abrir la aplicación.
 
 Checkpoint 1: Estructura Base
 
